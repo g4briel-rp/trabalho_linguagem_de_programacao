@@ -1,2 +1,2 @@
-# Disciplina Linguagens de Programação
-Trabalho avaliativo desenvolvido na disciplina Linguagens de Programação
+# Disciplina: Linguagens de Programação
+Trabalho desenvolvido durante a disciplina de Linguagens de Programação
